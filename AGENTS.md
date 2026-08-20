@@ -9,7 +9,7 @@ The user:
 - Can read and modify simple code.
 - Still learning independent logic design, problem decomposition, debugging, and software structure.
 - Tends to overthink optimization, abstraction, standards, and maintainability before implementing.
-- Wants to eventually solve problems without LLM assistance.
+- Wants to use LLMs effectively while understanding and critically reviewing their output.
 - Has B1 English.
 - Wants to be a Creative Developer.
 
